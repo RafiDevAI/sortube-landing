@@ -1,12 +1,12 @@
-# YT Sorter Landing Page
+# Sortube Landing Page
 
-A modern, responsive landing page for YT Sorter - an AI-powered YouTube playlist organizer.
+A modern, responsive landing page for Sortube - an AI-powered YouTube playlist organizer.
 
-![YT Sorter Landing Page](docs/references/CaptureX_2026-08-15_194206_my-site-9813c30e.ploy.build.png)
+![Sortube Landing Page](docs/references/CaptureX_2026-08-15_194206_my-site-9813c30e.ploy.build.png)
 
 ## 🎯 Overview
 
-This is the official landing page for **YT Sorter**, an open-source, locally-hosted tool that uses Google Gemini AI to automatically categorize and organize YouTube playlists. The landing page showcases the product's features, explains how it works, and directs users to the GitHub repository.
+This is the official landing page for **Sortube**, an open-source, locally-hosted tool that uses Google Gemini AI to automatically categorize and organize YouTube playlists. The landing page showcases the product's features, explains how it works, and directs users to the GitHub repository.
 
 Built with Next.js 16, React 19, and Tailwind CSS v4, following a pixel-perfect design specification with a playful yet professional aesthetic featuring lavender, mint, and peach color scheme with scalloped wave dividers.
 
@@ -41,8 +41,8 @@ Built with Next.js 16, React 19, and Tailwind CSS v4, following a pixel-perfect 
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/yt-sorter-landing.git
-cd yt-sorter-landing
+git clone https://github.com/RafiDevAI/sortube-landing.git
+cd sortube-landing
 ```
 
 2. **Install dependencies:**
@@ -70,7 +70,7 @@ npm run lint     # Run ESLint
 ## 📁 Project Structure
 
 ```
-yt-sorter-landing/
+sortube-landing/
 ├── app/
 │   ├── components/
 │   │   ├── Header.tsx          # Navigation with mobile menu
@@ -131,7 +131,7 @@ yt-sorter-landing/
 Replace placeholder `#open-source` links throughout the codebase:
 ```tsx
 // Find and replace in all component files
-#open-source → https://github.com/yourusername/yt-sorter
+#open-source → https://github.com/RafiDevAI/Sortube
 ```
 
 ### Change Colors
@@ -209,15 +209,15 @@ This project is open source under the MIT License.
 
 ## 🙏 Credits
 
-- **Design:** Based on original YT Sorter landing page specifications
+- **Design:** Based on original Sortube landing page specifications
 - **Icons:** [Lucide Icons](https://lucide.dev)
 - **Font:** [Inter](https://rsms.me/inter/) by Rasmus Andersson
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/yt-sorter-landing/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/yt-sorter-landing/discussions)
+- **Issues:** [GitHub Issues](https://github.com/RafiDevAI/sortube-landing/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/RafiDevAI/sortube-landing/discussions)
 
 ---
 
-**Built with care for the YT Sorter project** 🎨✨
+**Built with care for the Sortube project** 🎨✨
