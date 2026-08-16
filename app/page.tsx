@@ -8,10 +8,8 @@ import Footer from './components/Footer';
 export default function HomePage() {
   return (
     <main className="min-h-screen bg-white">
-      {/* Header sits inside the lavender hero band */}
-      <div className="bg-lavender-hero">
-        <Header />
-      </div>
+      {/* Sticky header stays at top across all sections */}
+      <Header />
       <Hero />
       <Features />
       <HowItWorks />
