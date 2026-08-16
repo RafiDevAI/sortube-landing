@@ -1,0 +1,15 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="band1"><rect x="150" y="150" width="260" height="64"/></clipPath>
+    <clipPath id="band2"><rect x="150" y="224" width="260" height="64"/></clipPath>
+    <clipPath id="band3"><rect x="150" y="298" width="260" height="64"/></clipPath>
+  </defs>
+
+  <rect x="0" y="0" width="512" height="512" rx="108" fill="#12121A"/>
+
+  <g>
+    <path d="M190,150 L370,256 L190,362 Z" fill="#FFC93C" clip-path="url(#band1)"/>
+    <path d="M190,150 L370,256 L190,362 Z" fill="#FF5D5D" clip-path="url(#band2)"/>
+    <path d="M190,150 L370,256 L190,362 Z" fill="#7C5CFF" clip-path="url(#band3)"/>
+  </g>
+</svg>
