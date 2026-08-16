@@ -2,8 +2,6 @@
 
 A modern, responsive landing page for Sortube - an AI-powered YouTube playlist organizer.
 
-![Sortube Landing Page](docs/references/CaptureX_2026-08-15_194206_my-site-9813c30e.ploy.build.png)
-
 ## 🎯 Overview
 
 This is the official landing page for **Sortube**, an open-source, locally-hosted tool that uses Google Gemini AI to automatically categorize and organize YouTube playlists. The landing page showcases the product's features, explains how it works, and directs users to the GitHub repository.
