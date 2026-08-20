@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   title: 'Sortube — YouTube Playlist Categorizer',
   description: 'Open-source, locally hosted software that uses Gemini AI to organize saved YouTube playlist videos into focused topic playlists.',
   robots: 'index, follow',
+  verification: {
+    google: 'Hw7wXznF3n7mE7kSoKRyIBKUQgiRw3EJs5p_xHh7cXI',
+  },
   openGraph: {
     type: 'website',
     title: 'Sortube — YouTube Playlist Categorizer',
