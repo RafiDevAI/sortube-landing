@@ -3,7 +3,7 @@ import Script from 'next/script';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Sortube — YouTube Playlist Categorizer',
+  title: 'Sortube - YouTube Playlist Categorizer',
   description: 'Open-source, locally hosted software that uses Gemini AI to organize saved YouTube playlist videos into focused topic playlists.',
   robots: 'index, follow',
   verification: {
@@ -11,12 +11,12 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: 'website',
-    title: 'Sortube — YouTube Playlist Categorizer',
+    title: 'Sortube - YouTube Playlist Categorizer',
     description: 'Open-source, locally hosted software that uses Gemini AI to organize saved YouTube playlist videos into focused topic playlists.',
   },
   twitter: {
     card: 'summary',
-    title: 'Sortube — YouTube Playlist Categorizer',
+    title: 'Sortube - YouTube Playlist Categorizer',
     description: 'Open-source, locally hosted software that uses Gemini AI to organize saved YouTube playlist videos into focused topic playlists.',
   },
 };
